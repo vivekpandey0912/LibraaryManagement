@@ -18,6 +18,7 @@
   <modules>
     <module>EurekaServer</module>
     <module>APIGateway</module>
+    <module>UserAuthenticationService</module>
 
   </modules>
   <dependencies>
