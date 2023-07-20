@@ -17,6 +17,8 @@
 
   <modules>
     <module>EurekaServer</module>
+    <module>APIGateway</module>
+
   </modules>
   <dependencies>
 
