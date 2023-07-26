@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/APIGateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AdminUser" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/EurekaServer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/UserAuthenticationService" vcs="Git" />
   </component>
