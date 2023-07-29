@@ -20,6 +20,7 @@
     <module>APIGateway</module>
     <module>UserAuthenticationService</module>
     <module>AdminUser</module>
+    <module>UserModule</module>
 
   </modules>
   <dependencies>
